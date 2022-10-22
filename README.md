@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Diwas</h1>
+<h3 align="center">I'm the co-founder/Software Developer/Content-creator of Gurkha Technology with a passion for building intelligent systems that make a difference. </h3>
 
-<!--
-**diwas/diwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I work at [Gurkha Technology](https://gurkhatech.com/). 
 
-Here are some ideas to get you started:
+[My Blog](http://pdiwas.com) | [E-Mail](mailto:diwaspandey@live.com) | [Github](https://github.com/diwas/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Diwas Pandey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diwas&show_icons=true&hide_title=false&count_private=true&theme=dark)](https://github.com/diwas)
+
+![Diwas's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwas&theme=dracula)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pdiwas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/piwas/" height="30" width="30" /></a>
+
+</p>
+
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=diwas&theme=flat&no-frame=true&margin-w=30&margin-h=20" />
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+- Javascript
+- Java
+- Premiere Pro
+- Final Cut
+- Photoshop
+<br><br>
