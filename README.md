@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwas</h1>
-<h3 align="center">I'm the co-founder/Software Developer/Content-creator of Gurkha Technology with a passion for building intelligent systems that make a difference. </h3>
+<h3 align="center">I'm the co-founder/Technology Director of Gurkha Technology with a passion for building & scaling products that make a difference. </h3>
 
 - 👨‍💻 I work at [Gurkha Technology](https://gurkhatech.com/). 
 
@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 - Javascript
 - Java
-- Premiere Pro
-- Final Cut
-- Photoshop
+- Python
+- WordPress
+- UX/UI
 <br><br>
