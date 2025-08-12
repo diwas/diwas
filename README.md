@@ -5,8 +5,6 @@
 
 [My Blog](http://pdiwas.com) | [E-Mail](mailto:diwaspandey@live.com) | [Github](https://github.com/diwas/)
 
-[![Diwas Pandey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diwas&show_icons=true&hide_title=false&count_private=true&theme=dark)](https://github.com/diwas)
-
 ![Diwas's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwas&theme=dracula)
 
 <p align="center">
